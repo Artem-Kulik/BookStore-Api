@@ -23,6 +23,16 @@ namespace BookStore.Models.Configuration.Initializers
                            Category = context.Categories.Where(el => el.Name == "Fantasy").FirstOrDefault(),
                            Year = 2005
                 },
+                new Book { Name = "To Kill a Mockingbird",
+                           Author = "Harper Lee",
+                           Category = context.Categories.Where(el => el.Name == "Drama").FirstOrDefault(),
+                           Year = 2015
+                },
+                new Book { Name = "Things Fall Apart",
+                           Author = "Chinua Achebe",
+                           Category = context.Categories.Where(el => el.Name == "Detective").FirstOrDefault(),
+                           Year = 2013
+                }
             };
 
             await context.Set<Book>().AddRangeAsync(books);

@@ -15,7 +15,11 @@ namespace BookStore.Models.Configuration.Initializers
             Category[] categories = new Category[]
             {
                 new Category { Name = "Adventure" },
-                new Category { Name = "Fantasy" }
+                new Category { Name = "Fantasy" },
+                new Category { Name = "Comedy" },
+                new Category { Name = "Detective" },
+                new Category { Name = "Drama" },
+                new Category { Name = "Horror" }
             };
 
             await context.Set<Category>().AddRangeAsync(categories);

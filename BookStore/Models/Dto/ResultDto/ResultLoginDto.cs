@@ -5,9 +5,8 @@ using System.Threading.Tasks;
 
 namespace BookStore.Models.Dto.ResultDto
 {
-    public class ResultDto
+    public class ResultLoginDto: ResultDto
     {
-        public string Message { get; set; }
-        public bool IsSuccessful { get; set; }
+        public string Token { get; set; }
     }
 }

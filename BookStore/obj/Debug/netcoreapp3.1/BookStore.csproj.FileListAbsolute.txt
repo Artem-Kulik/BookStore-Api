@@ -257,8 +257,6 @@ D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\Bo
 D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\obj\Debug\netcoreapp3.1\BookStore.csprojAssemblyReference.cache
-D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\obj\Debug\netcoreapp3.1\BookStore.csproj.CoreCompileInputs.cache
-D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\obj\Debug\netcoreapp3.1\BookStore.MvcApplicationPartsAssemblyInfo.cache
 D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\obj\Debug\netcoreapp3.1\BookStore.AssemblyInfoInputs.cache
 D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\obj\Debug\netcoreapp3.1\BookStore.AssemblyInfo.cs
 D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorTargetAssemblyInfo.cache
@@ -268,3 +266,11 @@ D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\Bo
 D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\obj\Debug\netcoreapp3.1\BookStore.dll
 D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\obj\Debug\netcoreapp3.1\BookStore.pdb
 D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\obj\Debug\netcoreapp3.1\BookStore.genruntimeconfig.cache
+D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\obj\Debug\netcoreapp3.1\BookStore.csproj.CoreCompileInputs.cache
+D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\obj\Debug\netcoreapp3.1\BookStore.MvcApplicationPartsAssemblyInfo.cache
