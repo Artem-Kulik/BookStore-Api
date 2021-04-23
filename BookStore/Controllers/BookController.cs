@@ -6,6 +6,7 @@ using BookStore.Models;
 using BookStore.Models.Dto;
 using BookStore.Models.Dto.ResultDto;
 using BookStore.Models.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -22,6 +23,7 @@ namespace BookStore.Controllers
             _context = context;
         }
 
+        [Authorize]
         public ResultDto GetBooks()
         {
             var books = _context.Books.Select(c => new BookDto()

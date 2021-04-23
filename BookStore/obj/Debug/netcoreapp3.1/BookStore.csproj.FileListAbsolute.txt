@@ -272,5 +272,10 @@ D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\Bo
 D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
 D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\obj\Debug\netcoreapp3.1\BookStore.csproj.CoreCompileInputs.cache
 D:\The way\Шаг дз\Семестр 4\Angular\CategoryBook\CategoryBook Api\BookStore\obj\Debug\netcoreapp3.1\BookStore.MvcApplicationPartsAssemblyInfo.cache
